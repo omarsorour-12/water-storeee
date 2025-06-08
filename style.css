@@ -1,0 +1,39 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f9ff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #0074D9;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+section {
+  padding: 20px;
+}
+
+.product img {
+  width: 100px;
+  display: block;
+  margin: 10px 0;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.contact a {
+  color: #0074D9;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #ddd;
+}
